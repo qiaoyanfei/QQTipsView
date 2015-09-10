@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/qiaoyf/code/QQTipsView/QQTipsView/app/build/intermediates/exploded-aar/QQTipsView/tipsview/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="7d69d2511bce2ac41bc5d02da62f50bd953208be">
+        <dex dex="/home/qiaoyf/code/QQTipsView/QQTipsView/app/build/intermediates/pre-dexed/debug/classes-bb7cc4c5fbef797b01cc28ed4aa76e424445842b.jar" />
+    </item>
+
+</items>
